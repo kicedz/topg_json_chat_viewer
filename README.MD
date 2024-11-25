@@ -1,4 +1,4 @@
-# JSON Chat Viewer
+# TopG Hustlers University JSON Chat Viewer
 
 ## Overview
 
@@ -78,7 +78,6 @@ python json_to_html_converter.py "./Public Channels" "./html_output"
 ├── README.MD                # Documentation
 ├── json_chat_viewer.py      # Main application script
 ├── json_to_html_converter.py# Batch conversion script
-├── old/                     # Archived versions of the application
 ├── session.json             # Session data (automatically managed)
 ├── .cache/                  # Cache directory (auto-generated, gitignored)
 └── .env                     # Environment settings (gitignored)
