@@ -49,6 +49,7 @@ This tool is free to use. If you wish to fork, modify, or redistribute it, pleas
 1. Drag and drop a file or folder into the application window.
 2. Select a file from the sidebar to view its content.
 3. Use the search toolbar to locate specific entries.
+4. NOTE: THE APP CAN HANG FOR LARGE JSONs BE PATIENT
 
 ### Batch Conversion
 
