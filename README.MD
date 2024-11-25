@@ -1,4 +1,4 @@
-# TopG Hustlers University JSON Chat Viewer
+# Top G Hustlers University JSON Chat Viewer
 
 ## Overview
 
